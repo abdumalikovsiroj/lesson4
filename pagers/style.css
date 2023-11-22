@@ -1,0 +1,88 @@
+.sahifa1 {
+  background-color: rgb(40, 42, 53);
+  height: 80;
+  text-align: center;
+  font-size: 26px;
+  word-spacing: 18px;
+}
+.sahifa1 a {
+  color: aliceblue;
+  text-decoration-line: none;
+}
+.button1 button {
+  height: 40px;
+  font-size: 18px;
+  background-color: #04aa6d;
+  color: #ffffff;
+  border-color: #04aa6d;
+}
+.tex1 {
+  background-color: #e0faf0;
+}
+
+.tex1 p {
+  font-size: 18px;
+  margin: 22px;
+  padding: 10px;
+}
+
+.yashil {
+  height: 40px;
+  font-size: 15px;
+  background-color: #04aa6d;
+  color: #ffffff;
+  border-color: #04aa6d;
+}
+.qora {
+  background-color: black;
+  color: rgb(217, 238, 225);
+
+  height: 40px;
+  font-size: 15px;
+  color: #ffffff;
+}
+.imgg * {
+  text-indent: 20px;
+  line-height: 40px;
+}
+.butn button {
+  height: 40px;
+  font-size: 18px;
+  background-color: #04aa6d;
+  color: #ffffff;
+  border-color: #04aa6d;
+}
+
+.texx {
+  background-color: #e0faf0;
+}
+.texx button {
+  height: 50px;
+  font-size: 18px;
+  background-color: #04aa6d;
+  color: #ffffff;
+  border-color: #04aa6d;
+}
+.texx p {
+  margin: 20px;
+  padding: 15px;
+}
+
+.tex3 {
+  background-color: #e0faf0;
+}
+.tex3 h1 {
+  margin: 30px;
+  padding: 10px;
+}
+.tex3 button {
+  height: 50px;
+  font-size: 18px;
+  background-color: #04aa6d;
+  color: #ffffff;
+  border-color: #04aa6d;
+}
+.tex3 p {
+  margin: 35px;
+  font-size: 20px;
+}
